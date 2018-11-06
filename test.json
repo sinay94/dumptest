@@ -2,14 +2,14 @@
   "array":[
     {
       "messageId":"1",
-      "userId":"140000198202211138",
-      "userName":"Luff",
-      "userImgUrl":"./assets/user.jpg",
-      "toUserId":"210000198410281948",
-      "toUserName":"Hancock",
-      "userAvatar":"./assets/to-user.jpg",
-      "time":1488349800000,
-      "message":"A good programmer is someone who always looks both ways before crossing a one-way street. ",
+      "userId":"210000198410281948",
+      "userName":"Hancock",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"Luff",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491034800000,
+      "message":"Don’t worry if it doesn't work right. If everything did, you’d be out of a job.",
       "status":"success"
 
     }
